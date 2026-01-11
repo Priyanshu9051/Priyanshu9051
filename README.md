@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Sagar</h1>
 <h3 align="center">BCA 2nd Year | AI & Machine Learning Enthusiast</h3>
-
+<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 ---
 
 ### 🚀 About Me
@@ -8,7 +8,7 @@
 - 🤖 Focused on **Artificial Intelligence & Machine Learning**
 - 🧠 Learning **Python, Data Analysis & ML algorithms**
 - 🛠️ Love building **real-world projects**
-<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+
 ---
 
 ### 🧑‍💻 Tech Stack
