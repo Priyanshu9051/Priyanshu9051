@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Sagar</h1>
 <h3 align="center">BCA 2nd Year | AI & Machine Learning Enthusiast</h3>
-<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+
+<img align="right" alt="Coding" width="420" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif"/>
+
 ---
 
 ### 🚀 About Me
@@ -16,6 +18,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -28,10 +31,11 @@
 - 🔍 Exploring **AI & Machine Learning**
 - 📊 Working on **Data Analysis projects**
 - 🧠 Practicing **DSA in C++**
-- 🤖 Building **voice assistant & AI tools**
+- 🤖 Building **Voice Assistant & AI Tools**
 
 ---
 
 ### 📫 Connect With Me
-- 💼 LinkedIn: *add your link*
+- 💼 LinkedIn: *Add your LinkedIn link*
 - 🌐 GitHub: https://github.com/your-username
+
