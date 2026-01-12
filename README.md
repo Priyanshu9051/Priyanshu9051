@@ -46,6 +46,5 @@ src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3
 
 ### 📫 Connect With Me
 - 💼 LinkedIn: www.linkedin.com/in/priyanshu9051
-- 🌐 GitHub: https://github.com/priyanshu9051
 - 📧 Gmail: Priyanshusagar740@gmail.com
 
